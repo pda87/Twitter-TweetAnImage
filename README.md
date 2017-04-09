@@ -1,2 +1,4 @@
 # Twitter-TweetAnImage
-Code to send a Tweet with an image attached
+PHP Code to send a Tweet with an image attached.
+
+Uses the "TwitterAPIExchange" Github project.
